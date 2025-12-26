@@ -102,7 +102,7 @@ synthea_portfolio/
 │   └── python_age_cost_correlation.jpg      
 │
 └── README.md
-
+```
 ------------------------------------------------------------------------------------------------
 
 ## 🛡️ Data Quality & Validation
